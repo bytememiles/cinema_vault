@@ -9,4 +9,4 @@ The downgit link below will pull only the folder mentioned above without needing
 
 Link for folder download: https://downgit.github.io/#/home?url=https://github.com/AmperSanders/CinemaVault/tree/main/AppInstallation
 
-Any helpful tips would be greatly appreciated.
+Helpful feedback would be greatly appreciated.
