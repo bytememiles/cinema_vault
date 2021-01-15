@@ -8,3 +8,5 @@ If you only wish to download the program, the folder "AppInstallation" contains 
 The downgit link below will pull only the folder mentioned above without needing to download the entire project zip to install this application.
 
 Link for folder download: https://downgit.github.io/#/home?url=https://github.com/AmperSanders/CinemaVault/tree/main/AppInstallation
+
+Any helpful tips would be greatly appreciated.
