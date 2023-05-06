@@ -3,7 +3,7 @@ Have you ever wanted to recommend a movie or show but details fade the longer ti
 
 **Components that will be installed to use: Microsoft .Net Framework 4.7.2 (x86 and x64) AND SQK Server 2019 Express LocalDB.**
 
-The below link below will download the folder needed for using the software. Simply download from the link and click the setup.exe. All compenents mentioned will download automatically upon accepting/allowing
+The below link below will download the folder needed for using the software. Simply download from the link, unzip the folder, and click the setup.exe. All compenents mentioned will download automatically upon accepting/allowing.
 
 Link for folder download:
 + https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FAmperSanders%2FCinemaVault%2Ftree%2Fmain%2FAppInstallation
