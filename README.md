@@ -6,6 +6,6 @@ Have you ever wanted to recommend a movie or show but details fade the longer ti
 The below link below will download the folder needed for using the software. Simply download from the link and click the setup.exe. All compenents mentioned will download automatically upon accepting/allowing
 
 Link for folder download:
-+https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FAmperSanders%2FCinemaVault%2Ftree%2Fmain%2FAppInstallation
++ https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FAmperSanders%2FCinemaVault%2Ftree%2Fmain%2FAppInstallation
 
 Helpful feedback would be greatly appreciated.
